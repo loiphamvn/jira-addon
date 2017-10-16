@@ -1,0 +1,13 @@
+{
+  "name": "bss/jira-addon",
+  "description": "jira add on for laravel",
+  "authors": [
+    {
+      "name": "bss dev",
+      "email": "dev@beesightsoft.com"
+    }
+  ],
+  "require": {
+    "chobie/jira-api-restclient": "^2.0@dev"
+  }
+}
