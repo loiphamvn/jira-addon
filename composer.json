@@ -1,6 +1,8 @@
 {
   "name": "bss/jira-addon",
   "description": "jira add on for laravel",
+  "license": "MIT",
+  "keywords": ["laravel"],
   "authors": [
     {
       "name": "bss dev",
