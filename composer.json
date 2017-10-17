@@ -11,7 +11,7 @@
       "email": "dev@beesightsoft.com"
     }
   ],
-  "require": {
+  "require-dev": {
     "chobie/jira-api-restclient": "^1.0.0"
   },
   "autoload": {
