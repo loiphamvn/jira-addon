@@ -18,5 +18,7 @@
     "psr-4": {
       "Bss\\JiraAddon\\": "src"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
