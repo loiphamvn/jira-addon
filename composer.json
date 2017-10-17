@@ -2,7 +2,9 @@
   "name": "bss/jira-addon",
   "description": "jira add on for laravel",
   "license": "MIT",
-  "keywords": ["laravel"],
+  "keywords": [
+    "laravel"
+  ],
   "authors": [
     {
       "name": "bss dev",
@@ -11,5 +13,10 @@
   ],
   "require": {
     "chobie/jira-api-restclient": "^2.0@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bss\\JiraAddon\\": "src"
+    }
   }
 }
